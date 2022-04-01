@@ -1,0 +1,16 @@
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\bin\Debug\net5.0\tiedosto teht 1.exe
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\bin\Debug\net5.0\tiedosto teht 1.deps.json
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\bin\Debug\net5.0\tiedosto teht 1.runtimeconfig.json
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\bin\Debug\net5.0\tiedosto teht 1.runtimeconfig.dev.json
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\bin\Debug\net5.0\tiedosto teht 1.dll
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\bin\Debug\net5.0\ref\tiedosto teht 1.dll
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\bin\Debug\net5.0\tiedosto teht 1.pdb
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\obj\Debug\net5.0\tiedosto teht 1.csproj.AssemblyReference.cache
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\obj\Debug\net5.0\tiedosto teht 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\obj\Debug\net5.0\tiedosto teht 1.AssemblyInfoInputs.cache
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\obj\Debug\net5.0\tiedosto teht 1.AssemblyInfo.cs
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\obj\Debug\net5.0\tiedosto teht 1.csproj.CoreCompileInputs.cache
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\obj\Debug\net5.0\tiedosto teht 1.dll
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\obj\Debug\net5.0\ref\tiedosto teht 1.dll
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\obj\Debug\net5.0\tiedosto teht 1.pdb
+C:\Users\Janne\Desktop\tiedostojenkäsittely\tiedostojen-kasittely-gr265773\tiedosto teht 1\obj\Debug\net5.0\tiedosto teht 1.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "tiedosto teht 1/1.0.0": {
+        "runtime": {
+          "tiedosto teht 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tiedosto teht 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

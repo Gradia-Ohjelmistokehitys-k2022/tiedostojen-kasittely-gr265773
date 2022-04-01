@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3db35910-8d6c-4c1b-abc1-48c02198c57f": {
+      "ProjectGuid": "3db35910-8d6c-4c1b-abc1-48c02198c57f",
+      "DisplayName": "tiedosto teht 1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

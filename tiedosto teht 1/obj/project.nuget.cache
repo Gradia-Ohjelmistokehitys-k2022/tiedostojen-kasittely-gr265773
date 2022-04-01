@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fjt+LSXqDYP+KHq6p7pHBtk+w+8wSN6r0HKyswY+x5n8Ua22iR0sTXZ8T/Sk+37xwQLxt4VP38gqEOD+AThEew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Janne\\Desktop\\tiedostojenkäsittely\\tiedostojen-kasittely-gr265773\\tiedosto teht 1\\tiedosto teht 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janne\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
